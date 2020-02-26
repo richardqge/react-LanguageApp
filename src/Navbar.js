@@ -20,7 +20,7 @@ class Navbar extends Component {
               <span>🇫🇷</span>
             </IconButton>
             <Typography className={classes.title} variant='h6' color='inherit'>
-              App Title
+              Language App
             </Typography>
             <Switch />
             <div className={classes.grow} />
